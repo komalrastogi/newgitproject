@@ -1,1 +1,2 @@
 welcome to git
+welcome to gitgit commit -m m1
